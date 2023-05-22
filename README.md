@@ -1,3 +1,15 @@
+# NETFLIX CLONE - FULL STACK
+This project is a full-stack application that replicates the famous Netflix streaming website. It utilizes a combination of technologies including React, Tailwind CSS, Next.js, Prisma, MongoDB, and NextAuth to provide a video streaming platform.
+I deployed this project using Vercel -> https://netflix-clone-chi-swart.vercel.app
+
+## Technologies Used
+- React: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for quickly styling the application.
+- Next.js: A React framework for building server-side rendered and statically generated web applications.
+- Prisma: An ORM (Object-Relational Mapping) tool for database access and management.
+- MongoDB: A NoSQL database for storing application data.
+- NextAuth: An authentication library for handling user authentication and authorization.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
